@@ -9,4 +9,4 @@ routes.post("/pessoas",controller.createPessoa)
 routes.put("/pessoas/:id",controller.updatePessoa)
 routes.delete("/pessoas/:id",controller.deletePessoa)
 
-module.exports = routes
+module.exports = routes......module.exports...module.exports...module.exports...module
